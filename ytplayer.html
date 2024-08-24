@@ -1,7 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>YouTube Video Player</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Watch YouTube videos with our responsive video player. Easily embed videos using video IDs and enjoy a seamless viewing experience on all devices.">
+  <meta property="og:title" content="Watch YouTube Videos - Responsive Video Player">
+  <meta property="og:description" content="A responsive video player to embed and watch YouTube videos.">
+  <meta property="og:image" content="https://cdn.jsdelivr.net/gh/kasintv2-0/kasintv/favicon.png">
+  <meta property="og:url" content="https://cdn.jsdelivr.net/gh/kasintv2-0/kasintv/favicon.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Watch YouTube Videos - Responsive Video Player">
+  <meta name="twitter:description" content=" A responsive video player to embed and watch YouTube videos.">
+  <meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/kasintv2-0/kasintv/favicon.png">
+  <title>Watch YouTube Videos - Responsive Video Player</title>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Watch YouTube Videos - Responsive Video Player",
+  "description": "A responsive video player to embed and watch YouTube videos.",
+  "thumbnailUrl": "https://cdn.jsdelivr.net/gh/kasintv2-0/kasintv/favicon.png",
+  "uploadDate": "2024-08-24",
+  "contentUrl": "https://cdn.jsdelivr.net/gh/kasintv2-0/kasintv/favicon.png"
+}
+</script>
+
   <style>
     body {
       margin: 0;
@@ -33,7 +57,7 @@
     // Create the YouTube player
     function createYouTubePlayer() {
       const playerDiv = document.getElementById('player');
-      playerDiv.innerHTML = `<iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+      playerDiv.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
     }
 
     // Check if videoId is available in the URL parameter and create the player
