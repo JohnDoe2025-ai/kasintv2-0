@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YouTube Video Player</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 aspect ratio (change to 75% for 4:3 videos) */
+      height: 0;
+      overflow: hidden;
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="video-container" id="player"></div>
+
+  <script>
+    // Get the video ID from the URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const videoId = urlParams.get('v');
+
+    // Create the YouTube player
+    function createYouTubePlayer() {
+      const playerDiv = document.getElementById('player');
+      playerDiv.innerHTML = `<iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    }
+
+    // Check if videoId is available in the URL parameter and create the player
+    if (videoId) {
+      createYouTubePlayer();
+    } else {
+      console.error('No video ID found in the URL parameter. Please provide a valid YouTube video ID.');
+    }
+  </script>
+</body>
+</html>
