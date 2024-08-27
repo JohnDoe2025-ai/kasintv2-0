@@ -5,20 +5,11 @@
     "matches": [
         {
             "event_category": "cricket",
-            "event_name": "t20 international trinations cup",
-            "match_name": "hong kong china vs kuwait",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Kuwait-vs-Hong-kong-old.png",
-            "match_id": "106655",
-            "status": "live",
-            "stream_link": "https://dai.google.com/linear/hls/event/3HAu36-JQKybd9VY2YOYiA/master.m3u8"
-        },
-        {
-            "event_category": "cricket",
             "event_name": "ksca maharaja trophy t20 2024",
             "match_name": "gulbarga mystics vs shivamogga lions",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/106732_4386_GMY_SL_fc-web.jpg",
             "match_id": "106732",
-            "status": "upcoming",
+            "status": "Live Now",
             "startTime": "03:00:00 PM 27-08-2024"
         },
         {
