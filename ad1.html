@@ -70,7 +70,46 @@
            font-family: tahoma;
            font-size: 20px;
            z-index: 9999;
-         }</style>
+         }
+
+ .tg-banner {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background: linear-gradient(135deg, #1da1f2, #0077b5);
+      border-radius: 12px;
+      padding: 9px 18px;
+      display: flex;
+      align-items: center;
+      color: white;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+      z-index: 1000;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .tg-banner:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    }
+
+    .tg-banner img {
+      width: 36px;
+      height: 36px;
+      margin-right: 12px;
+      border-radius: 20%;
+      border: 1px solid white;
+    }
+
+    .tg-banner span {
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+
+
+</style>
 
 
 <div class='container'>
@@ -95,7 +134,10 @@
          return false;
       }); 
   }); </script>
-     
+      <a href="https://t.me/kasintv" class="tg-banner">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram Logo">
+    <span>Join with us! @kasintv</span>
+  </a>
 
      <div><br /></div><div><b>Bitcoin (BTC):</b> As the first cryptocurrency ever created, Bitcoin remains the most popular and widely accepted. 
       It is often referred to as digital gold and is known for its scarcity and store of value.</div><div><br /></div>
