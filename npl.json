@@ -1,0 +1,286 @@
+[
+  {
+    "date": "30 Nov",
+    "matches": [
+      {
+        "time": "12:15 PM",
+        "teams": [
+          {
+            "name": "Biratnagar Kings",
+            "logo": "https://iili.io/2RZvrWQ.png"
+          },
+          {
+            "name": "Janakpur Bolts",
+            "logo": "https://iili.io/2RZvi0P.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Kathmandu Gurkhas",
+            "logo": "https://iili.io/2RZv8Ob.png"
+          },
+          {
+            "name": "Chitwan Rhinos",
+            "logo": "https://iili.io/2RZvSbj.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Janakpur Bolts",
+            "logo": "https://iili.io/2RZvi0P.png"
+          },
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "3 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Sudurpaschim Royals",
+            "logo": "https://iili.io/2RZvv5u.png"
+          },
+          {
+            "name": "Biratnagar Kings",
+            "logo": "https://iili.io/2RZvrWQ.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Chitwan Rhinos",
+            "logo": "https://iili.io/2RZvSbj.png"
+          },
+          {
+            "name": "Pokhara Avengers",
+            "logo": "https://iili.io/2RZvPqB.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "4 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          },
+          {
+            "name": "Kathmandu Gurkhas",
+            "logo": "https://iili.io/2RZv8Ob.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Biratnagar Kings",
+            "logo": "https://iili.io/2RZvrWQ.png"
+          },
+          {
+            "name": "Lumbini Lions",
+            "logo": "https://iili.io/2RZvgzx.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "5 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Pokhara Avengers",
+            "logo": "https://iili.io/2RZvPqB.png"
+          },
+          {
+            "name": "Janakpur Bolts",
+            "logo": "https://iili.io/2RZvi0P.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Kathmandu Gurkhas",
+            "logo": "https://iili.io/2RZv8Ob.png"
+          },
+          {
+            "name": "Sudurpaschim Royals",
+            "logo": "https://iili.io/2RZvv5u.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "6 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          },
+          {
+            "name": "Chitwan Rhinos",
+            "logo": "https://iili.io/2RZvSbj.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Pokhara Avengers",
+            "logo": "https://iili.io/2RZvPqB.png"
+          },
+          {
+            "name": "Lumbini Lions",
+            "logo": "https://iili.io/2RZvgzx.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "7 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Lumbini Lions",
+            "logo": "https://iili.io/2RZvgzx.png"
+          },
+          {
+            "name": "Sudurpaschim Royals",
+            "logo": "https://iili.io/2RZvv5u.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          },
+          {
+            "name": "Biratnagar Kings",
+            "logo": "https://iili.io/2RZvrWQ.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "8 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Janakpur Bolts",
+            "logo": "https://iili.io/2RZvi0P.png"
+          },
+          {
+            "name": "Lumbini Lions",
+            "logo": "https://iili.io/2RZvgzx.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Sudurpaschim Royals",
+            "logo": "https://iili.io/2RZvv5u.png"
+          },
+          {
+            "name": "Chitwan Rhinos",
+            "logo": "https://iili.io/2RZvSbj.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "10 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Chitwan Rhinos",
+            "logo": "https://iili.io/2RZvSbj.png"
+          },
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          }
+        ]
+      },
+      {
+        "time": "01:15 PM",
+        "teams": [
+          {
+            "name": "Pokhara Avengers",
+            "logo": "https://iili.io/2RZvPqB.png"
+          },
+          {
+            "name": "Biratnagar Kings",
+            "logo": "https://iili.io/2RZvrWQ.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "16 Dec",
+    "matches": [
+      {
+        "time": "09:15 AM",
+        "teams": [
+          {
+            "name": "Sudurpaschim Royals",
+            "logo": "https://iili.io/2RZvv5u.png"
+          },
+          {
+            "name": "Karnali Yaks",
+            "logo": "https://iili.io/2RZv4sV.png"
+          }
+        ]
+      }
+    ]
+  }
+]
