@@ -134,7 +134,7 @@
                     "teams": [
                         {
                             "name": "Pokhara Avengers",
-                            "logo": "https://iili.io/2RZvPqB.png"
+                            "logo": " https://iili.io/2RZvPqB.png"
                         },
                         {
                             "name": "Janakpur Bolts",
@@ -273,8 +273,8 @@
                     "time": "09:15 AM",
                     "teams": [
                         {
-                            "name": "Chitwan Rhinos",
-                            "logo": "https ://iili.io/2RZvSbj.png"
+                            "name ": "Chitwan Rhinos",
+                            "logo": "https://iili.io/2RZvSbj.png"
                         },
                         {
                             "name": "Lumbini Lions",
@@ -411,7 +411,7 @@
                 {
                     "serial": "24th T20, NPL 2024",
                     "time": "09:15 AM",
-                    "teams": [
+ "teams": [
                         {
                             "name": "Pokhara Avengers",
                             "logo": "https://iili.io/2RZvPqB.png"
