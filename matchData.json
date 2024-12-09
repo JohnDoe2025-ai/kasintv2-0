@@ -1,0 +1,212 @@
+{
+  "matches": [
+    {
+      "id": "1",
+      "homeTeam": {
+        "name": "India",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+      },
+      "awayTeam": {
+        "name": "Australia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+      },
+      "league": "ICC World Test Championship",
+      "sport": "cricket",
+      "date": "2024-12-16",
+      "time": "10:00",
+      "venue": "Adelaide Oval, Adelaide",
+      "startTime": "2024-12-08T10:00:00Z",
+      "endTime": "2024-12-20T18:00:00Z",
+      "streams": [
+        {
+          "title": "Official ICC Stream",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "homeTeam": {
+        "name": "Kathmandu Kings",
+        "logo": "/placeholder.svg?height=96&width=96"
+      },
+      "awayTeam": {
+        "name": "Pokhara Rhinos",
+        "logo": "/placeholder.svg?height=96&width=96"
+      },
+      "league": "Nepal Premier League 2024",
+      "sport": "cricket",
+      "date": "2024-12-10",
+      "time": "09:30",
+      "venue": "Tribhuvan University Ground, Kirtipur",
+      "startTime": "2024-12-10T09:30:00",
+      "endTime": "2024-12-10T17:30:00",
+      "streams": [
+        {
+          "title": "NPL Official Stream",
+          "language": "Nepali",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "homeTeam": {
+        "name": "South Africa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+      },
+      "awayTeam": {
+        "name": "Sri Lanka",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+      },
+      "league": "Sri Lanka tour of South Africa",
+      "sport": "cricket",
+      "date": "2024-12-15",
+      "time": "10:00",
+      "venue": "SuperSport Park, Centurion",
+      "startTime": "2024-12-15T10:00:00",
+      "endTime": "2024-12-19T18:00:00",
+      "streams": [
+        {
+          "title": "SuperSport Stream",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "homeTeam": {
+        "name": "New Zealand",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+      },
+      "awayTeam": {
+        "name": "England",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
+      },
+      "league": "England tour of New Zealand",
+      "sport": "cricket",
+      "date": "2024-12-20",
+      "time": "11:00",
+      "venue": "Bay Oval, Mount Maunganui",
+      "startTime": "2024-12-20T11:00:00",
+      "endTime": "2024-12-24T19:00:00",
+      "streams": [
+        {
+          "title": "Sky Sport NZ",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "homeTeam": {
+        "name": "West Indies",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Cricket_West_Indies_Logo_2017.png/200px-Cricket_West_Indies_Logo_2017.png"
+      },
+      "awayTeam": {
+        "name": "Bangladesh",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1200px-Bangladesh_Cricket_Board_Logo.svg.png"
+      },
+      "league": "Bangladesh tour of West Indies",
+      "sport": "cricket",
+      "date": "2024-12-28",
+      "time": "7:15 PM",
+      "venue": "Kensington Oval, Bridgetown",
+      "startTime": "2024-12-10T05:00:00Z",
+      "endTime": "2024-12-11T03:00:00Z",
+      "streams": [
+        {
+          "title": "Windies Cricket",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "homeTeam": {
+        "name": "South Africa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+      },
+      "awayTeam": {
+        "name": "Pakistan",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+      },
+      "league": "Pakistan tour of South Africa",
+      "sport": "cricket",
+      "date": "2025-01-05",
+      "time": "10:00",
+      "venue": "Wanderers Stadium, Johannesburg",
+      "startTime": "2025-01-05T10:00:00",
+      "endTime": "2025-01-09T18:00:00",
+      "streams": [
+        {
+          "title": "SuperSport Stream",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "homeTeam": {
+        "name": "Manchester United",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+      },
+      "league": "Premier League",
+      "sport": "football",
+      "date": "2024-12-15",
+      "time": "17:30",
+      "venue": "Old Trafford, Manchester",
+      "startTime": "2024-12-15T17:30:00",
+      "endTime": "2024-12-15T19:30:00",
+      "streams": [
+        {
+          "title": "Premier League Official",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+      },
+      "awayTeam": {
+        "name": "Barcelona",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+      },
+      "league": "La Liga",
+      "sport": "football",
+      "date": "2024-12-16",
+      "time": "20:00",
+      "venue": "Santiago Bernabéu, Madrid",
+      "startTime": "2024-12-16T20:00:00",
+      "endTime": "2024-12-16T22:00:00",
+      "streams": [
+        {
+          "title": "La Liga TV",
+          "language": "Spanish",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        }
+      ]
+    }
+  ]
+}
