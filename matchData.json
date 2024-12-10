@@ -19,7 +19,25 @@
       "endTime": "2024-12-20T18:00:00Z",
       "streams": [
         {
-          "title": "Official ICC Stream",
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
           "url": "https://www.youtube.com/embed/_r0jMBjRajY"
@@ -29,104 +47,132 @@
     {
       "id": "2",
       "homeTeam": {
-        "name": "Nepal",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Nepal.svg"
+        "name": "Janakpur Bolts",
+        "logo": "https://iili.io/2RZvi0P.png"
       },
       "awayTeam": {
-        "name": "Pakistan",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        "name": "Sudurpaschim Royals",
+        "logo": "https://iili.io/2RZvv5u.png"
       },
       "league": "NPL 2024",
       "sport": "cricket",
-      "date": "2024-12-18",
-      "time": "14:30",
+      "date": "2024-12-11",
+      "time": "09:00",
       "venue": "TU Cricket Ground, Kathmandu",
-      "startTime": "2024-12-18T14:30:00Z",
-      "endTime": "2024-12-18T22:30:00Z",
+      "startTime": "2024-12-11T09:00:00Z",
+      "endTime": "2024-12-11T12:00:00Z",
       "streams": [
         {
-          "title": "NPL Official Stream",
-          "language": "Nepali",
-          "quality": "720p",
-          "url": "https://www.youtube.com/embed/example_stream"
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
         }
       ]
     },
     {
       "id": "3",
       "homeTeam": {
-        "name": "Manchester United",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+        "name": "Kathmandu Gurkhas",
+        "logo": "https://iili.io/2RZv8Ob.png"
       },
       "awayTeam": {
-        "name": "Liverpool",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+        "name": "Lumbini Lions",
+        "logo": "https://iili.io/2RZvgzx.png"
       },
-      "league": "English Premier League",
-      "sport": "football",
-      "date": "2024-12-20",
-      "time": "17:00",
-      "venue": "Old Trafford, Manchester",
-      "startTime": "2024-12-20T17:00:00Z",
-      "endTime": "2024-12-20T19:00:00Z",
+      "league": "NPL 2024",
+      "sport": "cricket",
+      "date": "2024-12-11",
+      "time": "13:00",
+      "venue": "TU Cricket Ground, Kathmandu",
+      "startTime": "2024-12-11T13:00:00Z",
+      "endTime": "2024-12-11T16:00:00Z",
       "streams": [
         {
-          "title": "EPL Live Stream",
+          "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
-          "url": "https://www.youtube.com/embed/epl_live_stream"
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
         }
       ]
     },
     {
       "id": "4",
       "homeTeam": {
-        "name": "Brazil",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Brazil.svg"
+        "name": "Pokhara Avengers",
+        "logo": "https://iili.io/2RZvPqB.png"
       },
       "awayTeam": {
-        "name": "Argentina",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        "name": "Biratnagar Kings",
+        "logo": "https://iili.io/2RZvrWQ.png"
       },
-      "league": "FIFA Friendly",
-      "sport": "football",
-      "date": "2024-12-25",
-      "time": "20:00",
-      "venue": "Maracanã Stadium, Rio de Janeiro",
-      "startTime": "2024-12-25T20:00:00Z",
-      "endTime": "2024-12-25T22:00:00Z",
-      "streams": [
-        {
-          "title": "FIFA Friendly Official",
-          "language": "Portuguese",
-          "quality": "4K",
-          "url": "https://www.youtube.com/embed/fifa_friendly"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "homeTeam": {
-        "name": "New Zealand",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
-      },
-      "awayTeam": {
-        "name": "South Africa",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
-      },
-      "league": "ODI Series 2024",
+      "league": "NPL 2024",
       "sport": "cricket",
-      "date": "2024-12-28",
-      "time": "13:00",
-      "venue": "Eden Park, Auckland",
-      "startTime": "2024-12-28T13:00:00Z",
-      "endTime": "2024-12-28T21:00:00Z",
+      "date": "2024-12-12",
+      "time": "09:00",
+      "venue": "TU Cricket Ground, Kathmandu",
+      "startTime": "2024-12-12T09:00:00Z",
+      "endTime": "2024-12-12T12:00:00Z",
       "streams": [
         {
-          "title": "ODI Series Live",
+          "title": "Watch Now",
           "language": "English",
-          "quality": "720p",
-          "url": "https://www.youtube.com/embed/odi_series_live"
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
         }
       ]
     }
