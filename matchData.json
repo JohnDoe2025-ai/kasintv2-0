@@ -310,59 +310,15 @@
         }
       ]
     },
- {
-      "id": "7",
-      "homeTeam": {
-        "name": "Pokhara Avengers",
-        "logo": "https://iili.io/2RZvPqB.png"
-      },
-      "awayTeam": {
-        "name": "Kathmandu Gurkhas",
-        "logo": "https://iili.io/2RZv8Ob.png"
-      },
-      "league": "NPL 2024",
-      "sport": "cricket",
-      "date": "2024-12-14",
-      "time": "09:15",
-      "venue": "Pokhara Cricket Ground",
-      "startTime": "2024-12-14T09:15:00Z",
-      "endTime": "2024-12-14T12:15:00Z",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/abc123"
-        },
-         {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
-        },
-         {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
-        },
-         {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/_r0jMBjRajY"
-        }
-      ]
-    },
     {
       "id": "8",
       "homeTeam": {
         "name": "Chitwan Rhinos",
-        "logo": "https://iili.io/2RZvi0P.png"
+        "logo": "https://iili.io/2M6NrjS.png"
       },
       "awayTeam": {
         "name": "Janakpur Bolts",
-        "logo": "https://iili.io/2RZvi0P.png"
+        "logo": "https://iili.io/2M6vntV.png"
       },
       "league": "NPL 2024",
       "sport": "cricket",
