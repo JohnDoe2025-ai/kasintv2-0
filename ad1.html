@@ -467,6 +467,89 @@ document.getElementById('overlay').style.display = 'none';
 <script type="text/javascript" src="//migrationoctavian.com/ce13843395a0c843b16d62606a52163e/invoke.js"></script></div>
     </div>
 </main>
+<style scoped='' type='text/css'>
+.fixed-leftSd, .fixed-rightSd {
+  position: fixed;
+  top: 80px;
+  width: 160px;
+  height: 600px;
+  margin: 15px;
+  z-index: 9999;
+  transform: translateZ(0);
+}
+.fixed-leftSd {
+  left: 0;
+}
+.fixed-rightSd {
+  right: 0;
+}
+.close-fixedSd {
+  position: absolute;
+  width: 160px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  top: -30px;
+  left: 0;
+  text-align: center;
+  background: linear-gradient(to bottom, #ff5c5c, #d60000);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+.close-fixedSd:hover {
+  background: linear-gradient(to bottom, #d60000, #ff5c5c);
+  transform: scale(1.05);
+}
+.close-fixedSd:active {
+  background: #b50000;
+  transform: scale(0.95);
+}
+@media screen and (max-width: 1300px) {
+  .fixed-leftSd, .fixed-rightSd {
+    display: none;
+    visibility: hidden;
+  }
+}
+</style>
+
+<div class='fixed-leftSd'>
+  <div aria-label='Close Ads' class='close-fixedSd' onclick='this.parentElement.style.display=&quot;none&quot;' role='button' tabindex='0'>
+    <b>CLOSE ADS</b>
+  </div>
+  <!-- 1st Ad code here -->
+  <script type='text/javascript'>
+	atOptions = {
+		&#39;key&#39; : &#39;e90e2ff46f792aa0c824ab2832b15711&#39;,
+		&#39;format&#39; : &#39;iframe&#39;,
+		&#39;height&#39; : 600,
+		&#39;width&#39; : 160,
+		&#39;params&#39; : {}
+	};
+</script>
+<script src='//migrationoctavian.com/e90e2ff46f792aa0c824ab2832b15711/invoke.js' type='text/javascript'/>
+  
+</div>
+
+<div class='fixed-rightSd'>
+  <div aria-label='Close Ads' class='close-fixedSd' onclick='this.parentElement.style.display=&quot;none&quot;' role='button' tabindex='0'>
+    <b>CLOSE ADS</b>
+  </div>
+  <!-- 2nd Ad code here -->
+  <script type='text/javascript'>
+	atOptions = {
+		&#39;key&#39; : &#39;e90e2ff46f792aa0c824ab2832b15711&#39;,
+		&#39;format&#39; : &#39;iframe&#39;,
+		&#39;height&#39; : 600,
+		&#39;width&#39; : 160,
+		&#39;params&#39; : {}
+	};
+</script>
+<script src='//migrationoctavian.com/e90e2ff46f792aa0c824ab2832b15711/invoke.js' type='text/javascript'/>
+</div>
 
 <!-- Footer Section -->
 <footer>
